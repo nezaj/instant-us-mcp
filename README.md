@@ -7,7 +7,7 @@ using Instant with the MCP and some context! Let's get started!
 
 1. Press the button below to clone this repository and deploy it to Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnezaj%2Finstant-mcp-eph)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnezaj%2Finstant-us-mcp)
 
 Walk through the deployment process and you should see the default Next app live!
 
